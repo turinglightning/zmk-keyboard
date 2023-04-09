@@ -1,6 +1,6 @@
 file_format: "1"
-id: Y64
-name: Y64
+id: Y52
+name: Y52
 type: shield
 url: 
 requires: [pro_micro]
@@ -10,5 +10,5 @@ features:
   - display
   - encoder
 siblings:
-  - Y64_left
-  - Y64_right
+  - Y52_left
+  - Y52_right
