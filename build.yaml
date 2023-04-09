@@ -8,7 +8,7 @@
 #
 ---
 include:
-  - board: nice_nano_v2
-    shield: Y94_left
-  - board: nice_nano_v2
-    shield: Y92_right
+  - board: nrfmicro_13
+    shield: Y64_left
+  - board: nrfmicro_13
+    shield: Y64_right
