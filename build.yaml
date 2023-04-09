@@ -9,6 +9,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: Y64_left
+    shield: Y94_left
   - board: nrfmicro_13
-    shield: Y64_right
+    shield: Y94_right
