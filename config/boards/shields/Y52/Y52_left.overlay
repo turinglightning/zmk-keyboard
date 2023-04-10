@@ -7,6 +7,8 @@
 #include "Y52.dtsi"
 
 &kscan0 {
+
+    diode-direction = "col2row";
 	col-gpios
 		= <&pro_micro 4 GPIO_ACTIVE_HIGH>
 		, <&pro_micro 5 GPIO_ACTIVE_HIGH>
@@ -17,6 +19,5 @@
 		;
 };
 
-&left_encoder {
-	status = "okay";
-};
+
+
